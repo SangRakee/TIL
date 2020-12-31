@@ -1,3 +1,5 @@
+# 콜라츠 추측
+
 ```python
 def solution(num):
     answer = 0
