@@ -5,6 +5,6 @@
 
 - Algorithm
 
-  - [문제들](../AlgoriGym)
+  - [프로그래머스](../AlgoriGym/programmers)
 - AWS
 
