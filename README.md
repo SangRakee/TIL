@@ -2,7 +2,7 @@
 
 - Git
   
-- [git](git)
+  - [git](git)
   
 - Algorithm
 
@@ -10,5 +10,11 @@
 
     [링크]: https://github.com/SangRakKun/AlgoriGym/tree/main/programmers
 
-- AWS
+- Cloud
+
+  - AWS
+
+- Python
+
+  - zip(), enumerate()
 
