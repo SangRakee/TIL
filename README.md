@@ -1,4 +1,10 @@
 # Today I Learned!!
 
-- [git](git)
+- Git
+  - [git](git)
+
+- Algorithm
+
+  - [문제들](./AlgoriGym)
+- AWS
 
