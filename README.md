@@ -1,10 +1,14 @@
 # Today I Learned!!
 
 - Git
-  - [git](git)
-
+  
+- [git](git)
+  
 - Algorithm
 
-  - [프로그래머스](../AlgoriGym/programmers)
+  - [프로그래머스][링크]
+
+    [링크]: https://github.com/SangRakKun/AlgoriGym/tree/main/programmers
+
 - AWS
 
