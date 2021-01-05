@@ -8,7 +8,7 @@
 
   - [problem][링크]
 
-    [링크]: https://github.com/SangRakKun/AlgoriGym/tree/main/programmers
+    [링크]: https://github.com/SangRakKun/TIL/blob/main/Python/zip()%2C%20enumerate().md
 
 - Cloud
 
