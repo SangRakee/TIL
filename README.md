@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Today I Learned!!
 
 - Git
@@ -7,7 +6,7 @@
   
 - Algorithm
 
-  - [프로그래머스][링크]
+  - [problem][링크]
 
     [링크]: https://github.com/SangRakKun/AlgoriGym/tree/main/programmers
 
@@ -18,10 +17,3 @@
 - Python
 
   - zip(), enumerate()
-
-=======
-# AlgoriGym
-Algorithm training
-
-- [programmers](programmers)
->>>>>>> AlgoriGym/main
