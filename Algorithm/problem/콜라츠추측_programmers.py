@@ -1,6 +1,3 @@
-# 콜라츠 추측
-
-```python
 def solution(num):
     answer = 0
     count=0
@@ -16,5 +13,3 @@ def solution(num):
             count+=1
 
     return count
-```
-

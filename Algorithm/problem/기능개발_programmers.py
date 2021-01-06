@@ -1,6 +1,3 @@
-# 기능개발
-
-```python
 def solution(progresses, speeds):
     answer = []
     result=[]
@@ -28,5 +25,3 @@ def solution(progresses, speeds):
             result.append(1)
 
     return result
-```
-
