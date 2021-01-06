@@ -1,6 +1,3 @@
-# 하샤드수
-
-```python
 def solution(x):
     sum=0
 
@@ -13,5 +10,3 @@ def solution(x):
         return True
     else:
         return False
-```
-
