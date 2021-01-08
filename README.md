@@ -6,9 +6,9 @@
   
 - Algorithm
 
-  - [problem][링크]
+  - [problems][링크]
 
-    [링크]: https://github.com/SangRakKun/TIL/blob/main/Python/zip()%2C%20enumerate().md
+    [링크]: https://github.com/SangRakKun/TIL/tree/main/Algorithm/problem
 
 - Cloud
 
