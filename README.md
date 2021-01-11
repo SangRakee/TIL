@@ -2,7 +2,7 @@
 
 - Git
   
-  - [git](git)
+  - Git,GitHub
   
 - Cloud
 
